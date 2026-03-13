@@ -1,6 +1,8 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/", "destination": "/site.html" }
+    { "source": "/", "destination": "/site.html" },
+    { "source": "/T-Shirt Oversized "Monday's"", "destination": "/monday.html" },
+    { "source": "/T-Shirt Oversized "Tuesday's"", "destination": "/tuesday.html" }
   ]
 }
